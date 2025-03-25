@@ -1,0 +1,15 @@
+/Users/rohitmaan/Desktop/competition_2/competition_2/bin/Debug/net9.0/competition_2
+/Users/rohitmaan/Desktop/competition_2/competition_2/bin/Debug/net9.0/competition_2.deps.json
+/Users/rohitmaan/Desktop/competition_2/competition_2/bin/Debug/net9.0/competition_2.runtimeconfig.json
+/Users/rohitmaan/Desktop/competition_2/competition_2/bin/Debug/net9.0/competition_2.dll
+/Users/rohitmaan/Desktop/competition_2/competition_2/bin/Debug/net9.0/competition_2.pdb
+/Users/rohitmaan/Desktop/competition_2/competition_2/obj/Debug/net9.0/competition_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rohitmaan/Desktop/competition_2/competition_2/obj/Debug/net9.0/competition_2.AssemblyInfoInputs.cache
+/Users/rohitmaan/Desktop/competition_2/competition_2/obj/Debug/net9.0/competition_2.AssemblyInfo.cs
+/Users/rohitmaan/Desktop/competition_2/competition_2/obj/Debug/net9.0/competition_2.csproj.CoreCompileInputs.cache
+/Users/rohitmaan/Desktop/competition_2/competition_2/obj/Debug/net9.0/competition_2.dll
+/Users/rohitmaan/Desktop/competition_2/competition_2/obj/Debug/net9.0/refint/competition_2.dll
+/Users/rohitmaan/Desktop/competition_2/competition_2/obj/Debug/net9.0/competition_2.pdb
+/Users/rohitmaan/Desktop/competition_2/competition_2/obj/Debug/net9.0/competition_2.genruntimeconfig.cache
+/Users/rohitmaan/Desktop/competition_2/competition_2/obj/Debug/net9.0/ref/competition_2.dll
+/Users/rohitmaan/Desktop/competition_2/competition_2/obj/Debug/net9.0/competition_2.sourcelink.json
