@@ -53,9 +53,9 @@ class Program {
         library.AddBook(book3);
         
         // Creating students and staff
-        Student student1 = new Student("Akhil", "akhil@usf.edu", "S001", "Business Analytics", 2026);
-        Student student2 = new Student("Sandeep", "sandeep@usf.edu", "S002", "Information Systems", 2025);
-        Staff staff1 = new Staff("Grandon Gill", "grandon@usf.edu", "ST001", "Librarian", "Library Services");
+        Student student1 = new Student("Rohit", "rohit@usf.edu", "S001", "Business Analytics", 2026);
+        Student student2 = new Student("Damineni", "damineni@usf.edu", "S002", "Information Systems", 2025);
+        Staff staff1 = new Staff("Srisatya", "sri@usf.edu", "ST001", "Librarian", "Library Services");
         
         library.AddPatron(student1);
         library.AddPatron(student2);
@@ -67,8 +67,8 @@ class Program {
         
         // Borrowing books
         Console.WriteLine("\nBorrowing Books...");
-        library.BorrowBook("Sandeep", "Business Insights with AI");
-        library.BorrowBook("Akhil", "Analytics in Action");
+        library.BorrowBook("Rohit", "Business Insights with AI");
+        library.BorrowBook("Damineni", "Analytics in Action");
         
         // Display updated books data
         Console.WriteLine("\nBooks after borrowing:");
